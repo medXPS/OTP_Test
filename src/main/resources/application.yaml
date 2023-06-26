@@ -1,0 +1,12 @@
+
+server:
+  port: 8084
+
+
+
+vonage:
+  apiKey: afab8c03
+  apiSecret: zQjyg80DAbcb2SfV
+
+
+
