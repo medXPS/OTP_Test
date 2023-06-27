@@ -12,7 +12,7 @@ import lombok.NoArgsConstructor;
 
 
 public class MessageRequest {
-    private String BRAND_NAME ;
+
     private String phone ;
 
 }
